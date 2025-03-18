@@ -16,7 +16,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
-	public static void main2(String[] args) {
+	public static void main4(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
