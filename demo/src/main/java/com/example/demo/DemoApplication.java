@@ -9,9 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * This class is annotated with @SpringBootApplication, which is a convenience annotation
  * that adds:
- * - @Configuration: Marks the class as a source of bean definitions for the application context.
- * - @EnableAutoConfiguration: Enables Spring Boot's auto-configuration mechanism.
- * - @ComponentScan: Enables component scanning for the package where the class is located.
+ d.
  *
  * The main method in this class invokes SpringApplication.run to start the application.
  */
